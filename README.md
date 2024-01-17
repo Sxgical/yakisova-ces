@@ -1,9 +1,9 @@
 ## Types of Enchants
-- [Common Enchantments](#common-enchantments)
-- [Elite Enchantments](#elite-enchantments)
-- [Epic Enchantments](#epic-enchantments)
-- [Ultimate Enchantments](#ultimate-enchantments)
-- [Legendary Enchantments](#legendary-enchantments)
+- [Common Enchantment](#common-enchantment)
+- [Elite Enchantment](#elite-enchantment)
+- [Epic Enchantment](#epic-enchantment)
+- [Ultimate Enchantment](#ultimate-enchantment)
+- [Legendary Enchantment](#legendary-enchantment)
 
 ## Common Enchantment
 <b> Berserk (V) </b><br>
