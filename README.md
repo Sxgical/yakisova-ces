@@ -584,21 +584,140 @@ Explosive Arrows </i><br>
 
 
 ## Legendary Enchantment
-<b> Bewitched Hex (IV) Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage Requires Hex IV to apply Axe  
-<b> Bidirectional Teleportation (IV) Heroic Enchantment. Chance to grapple an enemy towards you Bow, Crossbow  
-<b> Demonic Lifesteal (V) Heals much more HP at greatly increased rate compared to normal Lifesteal Requires Lifesteal V Sword  
-<b> Alien Implants (III) Heal x2 the HP of normal Implants, and at max level all hunger loss is disabled Requires Implants III Helmet  
-<b> Deep Bleed (VI) Heroic Enchantment. A chance to affect foes with increased slowness and inflict more damage Requires Bleed VI Axe  
-<b> Divine Enighted (III) Heroic Enchantment. High chance of healing lots of HP while taking damage Requires Enligted III Armor  
-<b> Epidemic Carrier (VII)I When near death, chance to summons creepers and debuffs to avenge you Requires Plague Carrier VIII Leggings  
-<b> Ethereal Dodge I Increased proc rate over normal Dodge with a small chance to gain Speed V for a few seconds on successful dodge Requires Dodge V Armor  
-<b> Insanity (VII)I You swing your sword like an extreme maniac. Chance to multiplies damage against players who are wielding a SWORD at they time they are hit Requires Insanity VIII Axe  
-# Soon to add more Legendary Enchantment
+<b> Bewitched Hex (IV) </b><br>
+<i> Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage (Requires Hex IV) </i><br>
+<b> Applies to: </b> Axe  <br>
 
-<b> Berserk (V) </b><br>
-<b> Applies to: </b> </b> Axe <br>
-<i> A chance of strength and mining fatigue. </i><br>
+<b> Bidirectional Teleportation (IV) </b><br>
+<i> Heroic Enchantment. Chance to grapple an enemy towards you Bow, </i><br>
+<b> Applies to: </b> Crossbow  <br>
 
-<b> Berserk (V) </b><br>
-<b> Applies to: </b> </b> Axe <br>
-<i> A chance of strength and mining fatigue. </i><br>
+<b> Demonic Lifesteal (V) </b><br>
+<i> Heals much more HP at greatly increased rate compared to normal Lifesteal. (Requires Lifesteal V) </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Alien Implants (III) </b><br>
+<i> Heal x2 the HP of normal Implants, and at max level all hunger loss is disabled (Requires Implants III) </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Deep Bleed (VI) </b><br>
+<i> Heroic Enchantment. A chance to affect foes with increased slowness and inflict more damage (Requires Bleed VI) </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Divine Enighted (III) </b><br>
+<i> Heroic Enchantment. High chance of healing lots of HP while taking damage (Requires Enligted III) </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Epidemic Carrier (VIII) </b><br>
+<i> When near death, chance to summons creepers and debuffs to avenge you (Requires Plague Carrier VIII) </i><br>
+<b> Applies to: </b> Leggings  <br>
+
+<b> Ethereal Dodge (I) </b><br>
+<i> Increased proc rate over normal Dodge with a small chance to gain Speed V for a few seconds on successful dodge (Requires Dodge V) </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Insanity (VIII) </b><br>
+<i> You swing your sword like an extreme maniac. Chance to multiplies damage against players who are wielding a SWORD at they time they are hit (Requires Insanity VIII) </i><br>
+<b> Applies to: </b> Axe <br>
+
+<b> Guided Rocket Escape (III) </b><br>
+<i> Chance to blast off into the air at low health and briefly gain flight for (level x 1s) (Requires Rocket Escape III) </i><br>
+<b> Applies to: </b> Boots <br>
+
+<b> Godly Overload (III) </b><br>
+<i> Heroic Enchantment. A very large permanent increase in hearts. (Requires Overload III) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Divine Immolation (IV) </b><br>
+<i> Active soul enchant. Chance for your sword to be imbued with divine fire, turning all your physical attacks into Area of Effect spells and igniting divine fire upon all nearby enemies (75 souls per use) </i><br>
+<b> Applies to: </b> Sword <br>
+
+<b> Immortal (IV) </b><br>
+<i> Passive soul enchant. Chance to prevent your armor from taking durability damage, in exchange for souls (5 souls per use) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Master Blacksmith (V) </b><br>
+<i> Chance to heal your most damaged piece of armor by 2-3 durability whenever you hit a player, but when it procs your attack will deal between 75%-100% damage. (Requires Blacksmith V) </i><br>
+<b> Applies to: </b> Axe <br>
+
+<b> Mega Heavy (V) </b><br>
+<i> Chance to decrease damage from enemy bows by 10% plus an additional 2% per level. (Requires Heavy 5) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Mighty Cactus (II) </b><br>
+<i> Heroic Enchantment. Chance to stop enemy attack and injures your attacker but does not affect your durability (Requires Cactus II) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Mighty Cleave (V) </b><br>
+<i> Chance to deal up to 8 damage in up to a 4 block radius. (Requires Cleave VII) </i><br>
+<b> Applies to: </b> Axe <br>
+
+<b> Paladin Armored </b><br>
+<i> Negates 10 + 5 per level of enemy sword damage. A chance to be blessed everytime you are struck by an enemy sword. (Requires Armored IV) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Planetary Deathbringer (III) </b><br>
+<i> Heroic Enchantment. An increased chance to deal 1.5x damage. (Requires Deathbringer III) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Natures Wrath (IV) </b><br>
+<i> Temporarily freeze all enemies in a massive area around you, pushing them back and dealing massive nature damage (75 souls per use) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Paradox (V) </b><br>
+<i> Passive soul enchantment. Heals all nearby allies in a massive area around you for a portion of all damage dealt to you. </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Phoenix (III) </b><br>
+<i> An attack that would normally kill you will instead heal you to full HP. can only be activated once every couple minutes (500 souls per use) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Lethal Sniper (V) </b><br>
+<i> Heroic Enchantment. Increased headshot chance and multiplied damage up to 4.5x. (Requires Sniper V) </i><br>
+<b> Applies to: </b> Bow, Crossbow <br>
+
+<b> Polymorphic Metaphysical (IV) </b><br>
+<i> A chance to be cured of Slowness when attacked. At max level you will only be affected approx . 10% of the time (Requires Metaphysical IV) </i><br>
+<b> Applies to: </b> Boots <br>
+
+<b> Sabotage (V) </b><br>
+<i> An active soul enchantment that gives a chance to block an enemy players Rocket Escape and Guided Rocket Escape from activating. </i><br>
+<b> Applies to: </b> Sword <br>
+
+<b> Shadow Assassin (V) </b><br>
+<i> Heroic Enchantment. The closer you are to your enemy, the more damage you deal (up to 1.875x). However, if you are more than 2 blocks away, you will deal LESS damage than normal (Requires Assassin V) </i><br>
+<b> Applies to: </b> Sword <br>
+
+<b> Soul Trap (III) </b><br>
+<i> Active soul enchant. Your weapon is imbued with sealing magic, and has a chance to disable/negate all soul enchantments of your enemies on hit for (level x 4) seconds (2 souls per second) </i><br>
+<b> Applies to: </b> Axe, Sword <br>
+
+<b> Soul Hardened (III) </b><br>
+<i> Up to 50% chance to block enemy soul trap, armor takes less durability damage. (Requires Hardened III) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Soulbound (III)</b><br> 
+<i> A chance to keep item on death. </i><br>
+<b> Applies to: </b> Sword, Axe, Pickaxe, Spade, Bow, Crossbow <br>
+
+<b> Teleblock (V) </b><br>
+<i> Active soul enchant. Your bow is enchanted with enderpearl blocking magic. A chance that damaged players will be unable to use enderpearls for up to 20 seconds and will lose up to 15 enderpearls from their inventory. </i><br>
+<b> Applies to: </b> Bow, Crossbow <br>
+
+<b> Rogue (III) </b><br>
+<i> Active soul enchant. Chance to deal up to 2.0x damage </i><br>
+<b> Applies to: </b> Axe <br>
+
+<b> Reinforced Tank (IV) </b><br>
+<i> Decreases damage from enemy axes by 6% + 2% per level. (Requires Tank IV) </i><br>
+<b> Applies to: </b> Armor <br>
+
+<b> Reflective Block (III) </b><br> 
+<i> Heroic Enchantment. A chance to greatly or completely negate incoming damage while blocking, and to reflect an incoming attack back on the attacker whether you are blocking or not. (Requires Block III) </i><br>
+<b> Applies to: </b> Sword <br>
+
+<b> Vengeful Diminish (VI) </b><br>
+<i> Ensures that the next strike against you only deals 50% of the damage inflicted and any extra above that will be returned to the attacker. (Requires Diminish VI) </i><br>
+<b> Applies to: </b> Chestplate <br>
+
+----------------------------------------------------------------------------------------------------------------------------------------
