@@ -90,7 +90,7 @@ Heavy I-V *Decreases damage from enemy bows by 2% per level* Armor
 Hellfire I-V *All arrows shot by you turn into explosive fireballs when in contact with the enemy* Bow, Crossbow  
 Ender Walker I-V *Chance to cure Wither and Poison when attacked and heal at high levels* Boots  
 Eagle Eye I-V *Chance to deal 1-4 durability damage to ALL armor pieces of enemy player* Bow, Crossbow  
-Dominate I-IV *Chance to weaken enemy players when attacked, causing them to deal less damage Sword  
+Dominate I-IV *Chance to weaken enemy players when attacked, causing them to deal less damage* Sword  
 Dodge I-V *Chance to dodge physical enemy attacks, increased chance if sneaking* Armor  
 Ice Aspect I-III *A chance of causing the slowness effect on your enemy* Sword  
 Implants I-III *Chance to passively heals +1 health and restore +1 hunger every few seconds* Helmet  
@@ -123,16 +123,16 @@ Devour I-IV *Chance to multiplies damage dealt to players with active bleed stac
 Diminish I-VI *When this effect procs, the next attack dealt to you cannot deal more than (the total amount of damage / 2) you took from the previous attack* Chestplate  
 Disarmor I-VIII *A slight chance of removing one piece of armor from your enemy when they are at low health* Sword  
 Enlighted I-III *Can heal hearts while taking damage* Armor  
-Exterminator I-III *When attacked, chance to temporarily disables enemy ability to use Undead Ruse, Guardians, and Spirits Leggings  
+Exterminator I-III *When attacked, chance to temporarily disables enemy ability to use Undead Ruse, Guardians, and Spirits* Leggings  
 Gears I-III *Added speed when equipped* Boots  
 Double Strike I-III *A chance to strike twice* Sword  
 Drunk I-IV *Slowness and slow swinging with a chance to get strength* Helmet  
-Hex I-IV *Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 3-7 damaged is reflected back to them Axe  
+Hex I-IV *Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 3-7 damaged is reflected back to them* Axe  
 Impale I-IV *Chance to deal HUGE amounts of damage to your opponent, causing Slowness V for some time* Bow, Crossbow  
 Lifesteal I-V *A chance to steal health when attacking* Sword  
 Overload I-III *Permanent increase in hearts* Armor  
 Kill Aura I-V *Chance to kill multiple monsters in a stack each death event* Sword  
-Judgement I-V *Chance of dealing poison damage to your target and adding regeneration to yourself Armor
+Judgement I-V *Chance of dealing poison damage to your target and adding regeneration to yourself* Armor
 Inversion I-IV *Damage dealt to you has a chance to be blocked and heal you for 1-5 HP* Sword
 Insanity I-VIII *You swing your axe like a maniac. Chance to multiplies damage against players who are wielding a SWORD at the time they are hit* Axe  
 Protection I-V *Automatically heals and cures all nearby faction allies* Armor  
@@ -144,3 +144,14 @@ Silence I-IV *Chance to stop activation of your enemy's custom armor enchants* S
 Unholy I-V *Chance to give weakness and wither to your attacker* Armor  
 Twinge I-IV *Make your enemy bleed, if hit using melee attack* Trident  
 Torrent I-IV *Deal increased damage while in water* Boots  
+# Legendary Enchantment
+Bewitched Hex I-IV *Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage* Requires Hex IV to apply Axe
+Bidirectional Teleportation I-IV *Heroic Enchantment. Chance to grapple an enemy towards you* Bow, Crossbow  
+Demonic Lifesteal I-V *Heals much more HP at greatly increased rate compared to normal Lifesteal* Requires Lifesteal V Sword  
+Alien Implants I-III *Heal x2 the HP of normal Implants, and at max level all hunger loss is disabled* Requires Implants III Helmet  
+Deep Bleed I-VI *Heroic Enchantment. A chance to affect foes with increased slowness and inflict more damage* Requires Bleed VI Axe  
+Divine Enighted I-III *Heroic Enchantment. High chance of healing lots of HP while taking damage* Requires Enligted III Armor  
+Epidemic Carrier I-VIII *When near death, chance to summons creepers and debuffs to avenge you* Requires Plague Carrier VIII Leggings  
+Ethereal Dodge I *Increased proc rate over normal Dodge with a small chance to gain Speed V for a few seconds on successful dodge* Requires Dodge V Armor  
+Insanity I-VIII *You swing your sword like an extreme maniac. Chance to multiplies damage against players who are wielding a SWORD at they time they are hit* Requires Insanity VIII Axe
+# Soon to add more Legendary Enchantment
