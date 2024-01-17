@@ -454,38 +454,135 @@ Explosive Arrows </i><br>
 
 
 ## Ultimate Enchantment
-<b> Barbarian (IV) Chance to inflicts more axe damage Axe  
-<b> Blacksmith (V) Chance to heal your most damaged piece of armor by 1-2 durability whenever you hit a player, but when it procs your attack will only deal 50% of the normal damage Axe  
-<b> Clarity (III) Cure blindness when attacked Armor  
-<b> Deathbringer (III) Chance to deal double damage Armor  
-<b> Death God (III) Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead Helmet  
-<b> Armored (IV) Decreases damage from enemy swords by 2% per level Armor  
-<b> Destruction (V) Chance to damages and debuffs all nearby enemies when attacked Helmet  
-<b> Devour (IV) Chance to multiplies damage dealt to players with active bleed stacks Axe  
-<b> Diminish (VI) When this effect procs, the next attack dealt to you cannot deal more than (the total amount of damage / 2) you took from the previous attack Chestplate  
-<b> Disarmor (VII)I A slight chance of removing one piece of armor from your enemy when they are at low health Sword  
-<b> Enlighted (III) Can heal hearts while taking damage Armor  
-<b> Exterminator (III) When attacked, chance to temporarily disables enemy ability to use Undead Ruse, Guardians, and Spirits Leggings  
-<b> Gears (III) Added speed when equipped Boots  
-<b> Double Strike (III) A chance to strike twice Sword  
-<b> Drunk (IV) Slowness and slow swinging with a chance to get strength Helmet  
-<b> Hex (IV) Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 3-7 damaged is reflected back to them Axe  
-<b> Impale (IV) Chance to deal HUGE amounts of damage to your opponent, causing Slowness V for some time Bow, Crossbow  
-<b> Lifesteal (V) A chance to steal health when attacking Sword  
-<b> Overload (III) Permanent increase in hearts Armor  
-<b> Kill Aura (V) Chance to kill multiple monsters in a stack each death event Sword  
-<b> Judgement (V) Chance of dealing poison damage to your target and adding regeneration to yourself Armor
-<b> Inversion (IV) Damage dealt to you has a chance to be blocked and heal you for 1-5 HP Sword
-<b> Insanity (VII)I You swing your axe like a maniac. Chance to multiplies damage against players who are wielding a SWORD at the time they are hit Axe  
-<b> Protection (V) Automatically heals and cures all nearby faction allies Armor  
-<b> Quiver (VI) Chance to fling your attackerts into the air Boots  
-<b> Rage (VI) For every combo hit you land, chance to do 0.5 heart damage per combo to your opponent. Upto 5 max combo hits Axe, Sword  
-<b> Sniper (V) Headshots with projectile deal up to 3.5x damage Bow, Crossbow  
-<b> Stun (III) Chance to slow opponent, make them feel weak, and remove slowness from you Axe, Sword  
-<b> Silence (IV) Chance to stop activation of your enemy's custom armor enchants Sword  
-<b> Unholy (V) Chance to give weakness and wither to your attacker Armor  
-<b> Twinge (IV) Make your enemy bleed, if hit using melee attack Trident  
-<b> Torrent (IV) Deal increased damage while in water Boots  
+<b> Barbarian (IV)  </b><br>
+<i> Chance to inflicts more axe damage </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Blacksmith (V) </b><br>
+<i> Chance to heal your most damaged piece of armor by 1-2 durability whenever you hit a player, but when it procs your attack will only deal 50% of the normal damage </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Clarity (III) </b><br>
+<i> Cure blindness when attacked </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Deathbringer (III) </b><br>
+<i> Chance to deal double damage </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Death God (III) </b><br>
+<i> Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Armored (IV)  </b><br>
+<i> Decreases damage from enemy swords by 2% per level </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Destruction (V) </b><br>
+<i> Chance to damages and debuffs all nearby enemies when attacked </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Devour (IV) </b><br>
+<i> Chance to multiplies damage dealt to players with active bleed stacks </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Diminish (VI) </b><br>
+<i> When this effect procs, the next attack dealt to you cannot deal more than (the total amount of damage / 2) you took from the <b> previous attack </i><br>
+<b> Applies to: </b> Chestplate  <br>
+
+<b> Disarmor (VIII) </b><br>
+<i> A slight chance of removing one piece of armor from your enemy when they are at low health </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Enlighted (III) </b><br>
+<i> Can heal hearts while taking damage </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Exterminator (III) </b><br>
+<i> When attacked, chance to temporarily disables enemy ability to use Undead Ruse, Guardians, and Spirits </i><br>
+<b> Applies to: </b> Leggings  <br>
+
+<b> Gears (III) </b><br>
+<i> Added speed when equipped </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Double Strike (III) </b><br>
+<i> A chance to strike twice </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Drunk (IV) </b><br>
+<i> Slowness and slow swinging with a chance to get strength </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Hex (IV) </b><br>
+<i> Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 3-7 damage is reflected back to them </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Impale (IV) </b><br>
+<i> Chance to deal HUGE amounts of damage to your opponent, causing Slowness V for some time </i><br>
+<b> Applies to: </b> Bow, Crossbow  <br>
+
+<b> Lifesteal (V) </b><br>
+<i> A chance to steal health when attacking </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Overload (III) </b><br>
+<i> Permanent increase in hearts </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Kill Aura (V) </b><br>
+<i> Chance to kill multiple monsters in a stack each death event </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Judgement (V) </b><br>
+<i> Chance of dealing poison damage to your target and adding regeneration to yourself </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Inversion (IV) </b><br>
+<i> Damage dealt to you has a chance to be blocked and heal you for 1-5 HP </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Insanity (VIII) </b><br>
+<i> Chance to multiplies damage against players who are wielding a SWORD at the time they are hit </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Protection (V) </b><br>
+<i> Automatically heals and cures all nearby faction allies </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Quiver (VI) </b><br>
+<i> Chance to fling your attackerts into the air </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Rage (VI) </b><br>
+<i> For every combo hit you land, chance to do 0.5 heart damage per combo to your opponent. Upto 5 max combo hits Axe, </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Sniper (V) </b><br>
+<i> Headshots with projectile deal up to 3.5x damage </i><br>
+<b> Applies to: </b> Bow, Crossbow  <br>
+
+<b> Stun (III) </b><br>
+<i> Chance to slow opponent, make them feel weak, and remove slowness from you </i><br>
+<b> Applies to: </b> Axe, Sword  <br>
+
+<b> Silence (IV) </b><br>
+<i> Chance to stop activation of your enemy's custom armor enchants </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Unholy (V) </b><br>
+<i> Chance to give weakness and wither to your attacker </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Twinge (IV) </b><br>
+<i> Make your enemy bleed, if hit using melee attack </i><br>
+<b> Applies to: </b> Trident  <br>
+
+<b> Torrent (IV) </b><br>
+<i> Deal increased damage while in water </i><br>
+<b> Applies to: </b> Boots  <br>
+
+
 ## Legendary Enchantment
 <b> Bewitched Hex (IV) Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage Requires Hex IV to apply Axe  
 <b> Bidirectional Teleportation (IV) Heroic Enchantment. Chance to grapple an enemy towards you Bow, Crossbow  
