@@ -145,7 +145,7 @@ Unholy I-V *Chance to give weakness and wither to your attacker* Armor
 Twinge I-IV *Make your enemy bleed, if hit using melee attack* Trident  
 Torrent I-IV *Deal increased damage while in water* Boots  
 # Legendary Enchantment
-Bewitched Hex I-IV *Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage* Requires Hex IV to apply Axe
+Bewitched Hex I-IV *Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage* Requires Hex IV to apply Axe  
 Bidirectional Teleportation I-IV *Heroic Enchantment. Chance to grapple an enemy towards you* Bow, Crossbow  
 Demonic Lifesteal I-V *Heals much more HP at greatly increased rate compared to normal Lifesteal* Requires Lifesteal V Sword  
 Alien Implants I-III *Heal x2 the HP of normal Implants, and at max level all hunger loss is disabled* Requires Implants III Helmet  
@@ -153,5 +153,5 @@ Deep Bleed I-VI *Heroic Enchantment. A chance to affect foes with increased slow
 Divine Enighted I-III *Heroic Enchantment. High chance of healing lots of HP while taking damage* Requires Enligted III Armor  
 Epidemic Carrier I-VIII *When near death, chance to summons creepers and debuffs to avenge you* Requires Plague Carrier VIII Leggings  
 Ethereal Dodge I *Increased proc rate over normal Dodge with a small chance to gain Speed V for a few seconds on successful dodge* Requires Dodge V Armor  
-Insanity I-VIII *You swing your sword like an extreme maniac. Chance to multiplies damage against players who are wielding a SWORD at they time they are hit* Requires Insanity VIII Axe
+Insanity I-VIII *You swing your sword like an extreme maniac. Chance to multiplies damage against players who are wielding a SWORD at they time they are hit* Requires Insanity VIII Axe  
 # Soon to add more Legendary Enchantment
