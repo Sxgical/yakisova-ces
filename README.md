@@ -116,11 +116,11 @@ Barbarian I-IV *Chance to inflicts more axe damage* Axe
 Blacksmith I-V *Chance to heal your most damaged piece of armor by 1-2 durability whenever you hit a player, but when it procs your attack will only deal 50% of the normal damage* Axe  
 Clarity I-III *Cure blindness when attacked* Armor  
 Deathbringer I-III *Chance to deal double damage* Armor  
-Death God I-III *Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead Helmet  
+Death God I-III *Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead* Helmet  
 Armored I-IV *Decreases damage from enemy swords by 2% per level* Armor  
 Destruction I-V *Chance to damages and debuffs all nearby enemies when attacked* Helmet  
 Devour I-IV *Chance to multiplies damage dealt to players with active bleed stacks* Axe  
-Diminish I-VI *When this effect procs, the next attack dealt to you cannot deal more than (the total amount of damage / 2) you took from the previous attack Chestplate  
+Diminish I-VI *When this effect procs, the next attack dealt to you cannot deal more than (the total amount of damage / 2) you took from the previous attack* Chestplate  
 Disarmor I-VIII *A slight chance of removing one piece of armor from your enemy when they are at low health* Sword  
 Enlighted I-III *Can heal hearts while taking damage* Armor  
 Exterminator I-III *When attacked, chance to temporarily disables enemy ability to use Undead Ruse, Guardians, and Spirits Leggings  
