@@ -1,4 +1,4 @@
-# Common Enchantment
+## **Common Enchantment**
 Berserk I-V *A chance of strength and mining fatigue* Axe  
 Auto Smelt I-III *Ores are automatically smelted when mined* Pickaxe  
 Commander I-V *Nearby allies are given haste* Armor  
@@ -32,7 +32,7 @@ Thundering Blow I-III *Can cause smite effect on your enemy* Sword
 Ravenous I-IV *Chance to regain hunger whilst in combat* Axe  
 Virus I-IV *Multiplies all Wither and Poison effects on the afflicted target* Bow, Crossbow  
 Ward I-IV *A chance to absorb enemy damage and heal you* Armor  
-# Elite Enchantment 
+## **Elite Enchantment**
 Blind I-III *A chance of causing blindness when attacking* Sword  
 Cactus I-II *Injures your attackers but does not affect your durability* Armor  
 Demonforged I-IV *Increases your durability loss on your enemy's armor* Sword  
@@ -66,7 +66,7 @@ Vampire I-III *A chance to heal you for up to 3 hp a few seconds after you strik
 Venom I-III *A chance of dealing poison* Bow, Crossbow  
 Voodoo I-VI *Gives a chance to deal weakness* Armor  
 Wither I-V *A chance to give the wither effect* Armor  
-# Epic Enchantment
+## **Epic Enchantment**
 Arsonist I-III *Chance to deal more damage whilst on fire* Sword  
 Assassin I-V *The closer you are to your enemy, the more damage you deal (up to 1.25x). However, if you are more than 2 blocks away, you will deal LESS damage than normal* Sword  
 Bleed I-VI *Applies bleed stacks to enemies that decrease their movement speed* Axe  
@@ -111,7 +111,7 @@ Reinforced I-IV *Take less damage when being hit from behind* Armor
 Tank I-IV *Chance to decreases damage from enemy axes by 2% per level* Armor  
 Unfocus I-V *Chance to unfocus target player, reducing their out going bow damage by 50% for up to 10 seconds* Bow, Crossbow  
 Valor I-V *Chance to reduces incoming damage while wielding a sword by up to 22% at max level* Armor  
-# Ultimate Enchantment 
+## **Ultimate Enchantment**
 Barbarian I-IV *Chance to inflicts more axe damage* Axe  
 Blacksmith I-V *Chance to heal your most damaged piece of armor by 1-2 durability whenever you hit a player, but when it procs your attack will only deal 50% of the normal damage* Axe  
 Clarity I-III *Cure blindness when attacked* Armor  
@@ -144,7 +144,7 @@ Silence I-IV *Chance to stop activation of your enemy's custom armor enchants* S
 Unholy I-V *Chance to give weakness and wither to your attacker* Armor  
 Twinge I-IV *Make your enemy bleed, if hit using melee attack* Trident  
 Torrent I-IV *Deal increased damage while in water* Boots  
-# Legendary Enchantment
+## **Legendary Enchantment**
 Bewitched Hex I-IV *Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage* Requires Hex IV to apply Axe  
 Bidirectional Teleportation I-IV *Heroic Enchantment. Chance to grapple an enemy towards you* Bow, Crossbow  
 Demonic Lifesteal I-V *Heals much more HP at greatly increased rate compared to normal Lifesteal* Requires Lifesteal V Sword  
