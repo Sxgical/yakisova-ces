@@ -1,9 +1,9 @@
 ## Types of Enchants
-- [Common Enchantments](common-enchantments)
-- [Elite Enchantments](elite-enchantments)
-- [Epic Enchantments](epic-enchantments)
-- [Ultimate Enchantments](ultimate-enchantments)
-- [Legendary Enchantments](legendary-enchantments)
+- [Common Enchantments](#common-enchantments)
+- [Elite Enchantments](#elite-enchantments)
+- [Epic Enchantments](#epic-enchantments)
+- [Ultimate Enchantments](#ultimate-enchantments)
+- [Legendary Enchantments](#legendary-enchantments)
 
 ## **Common Enchantments**
 
