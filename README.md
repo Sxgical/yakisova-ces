@@ -71,4 +71,45 @@ Arsonist I-III *Chance to deal more damage whilst on fire* Sword
 Assassin I-V *The closer you are to your enemy, the more damage you deal (up to 1.25x). However, if you are more than 2 blocks away, you will deal LESS damage than normal* Sword  
 Bleed I-VI *Applies bleed stacks to enemies that decrease their movement speed* Axe  
 Blessed I-IV *A chance of removing debuffs* Axe  
-Block I-III *A chance to negate an attack and deal up to 4 damage back* Sword
+Block I-III *A chance to negate an attack and deal up to 4 damage back* Sword  
+Cleave I-VII *Damages players within a radius that increases with the level of enchant* Axe  
+Corrupt IV *Deals damage overtime* Axe  
+Creeper Armor I-III *Chance to be immune to explosive damage, at higher levels you have a chance to heal* Armor  
+Demonic I-III *A chance to remove fire resistance from your enemy* Armor  
+Angelic I-V *Heals health when damaged* Armor  
+Annihilate I-VI *Demolish your opponent's armour quicker* Axe  
+Arrow Break I-VI *Chance for arrows to bounce off and do no damage to you when you are wielding an axe with this enchant on it* Axe  
+Arrow Deflect I-IV *Chance to prevent enemy arrow from dealing damage* Armor  
+Arrow Lifesteal I-V *Chance to steal health from opponent* Bow, Crossbow  
+Dissapear I-IV *Chance to become invisible when low on health* Armor  
+Disintegrate I-IV *Chance to deal extra durability damage to all enemy armor with every attack* Sword  
+Distance I-IV *Chance to distance yourself from your enemies and gain regeneration* Sword, Axe  
+Enrage I-III *Deal more damage on low HP* Sword  
+Guardians I-X *A chance to spawn iron golems to assist you and watch over you* Armor  
+Heavy I-V *Decreases damage from enemy bows by 2% per level* Armor  
+Hellfire I-V *All arrows shot by you turn into explosive fireballs when in contact with the enemy* Bow, Crossbow  
+Ender Walker I-V *Chance to cure Wither and Poison when attacked and heal at high levels* Boots  
+Eagle Eye I-V *Chance to deal 1-4 durability damage to ALL armor pieces of enemy player* Bow, Crossbow  
+Dominate I-IV *Chance to weaken enemy players when attacked, causing them to deal less damage Sword  
+Dodge I-V *Chance to dodge physical enemy attacks, increased chance if sneaking* Armor  
+Ice Aspect I-III *A chance of causing the slowness effect on your enemy* Sword  
+Implants I-III *Chance to passively heals +1 health and restore +1 hunger every few seconds* Helmet  
+Longbow I-IV *Greatly increases damage dealt to enemy players that have a bow in their hands* Bow, Crossbow  
+Marksman I-IV *Increases damage dealt with bows* Armor  
+Metaphysical I-IV *A chance to be cured of Slowness when attacked. At max level, you will only be affected approx. 10% of the time* Boots  
+Pacify I-IV *A chance to paficy your target, dealing 1-4 damage and stopping their next attack on you* Bow, Crossbow  
+Obsidianshield I *Gives permanent fire resistance* Armor  
+Pickpocket I-III *Chance to steal in-game money whilst fighting* Sword, Axe  
+Piercing I-V *Inflicts more damage* Bow, Crossbow  
+Jelly Legs I-III *Chance to negate fall damage* Boots  
+Planter I-III *Plant seeds in a 3x3 area by shift+right-clicking* Hoe  
+Ragdoll I-IV *Whenever you take damage you are pushed far back* Armor  
+Spirits I-X *Chance to spawn blazes that heal yourself and your allies in combat* Armor  
+Timber I-III *Chance to break a tree in one hit* Axe  
+Restore I-IV *Upon breaking, item has a chance to lose this enchantment and repair half of its durability* Pickaxe, Spade, Axe  
+Reinforced I-IV *Take less damage when being hit from behind* Armor  
+Tank I-IV *Chance to decreases damage from enemy axes by 2% per level* Armor  
+Unfocus I-V *Chance to unfocus target player, reducing their out going bow damage by 50% for up to 10 seconds* Bow, Crossbow  
+Valor I-V *Chance to reduces incoming damage while wielding a sword by up to 22% at max level* Armor  
+# Ultimate Enchantment 
+
