@@ -1,15 +1,15 @@
 # Common Enchantment
-Berserk I-V *A chance of strength and mining fatigue* Axe
-Auto Smelt I-III *Ores are automatically smelted when mined* Pickaxe
-Commander I-V *Nearby allies are given haste* Armor
-Confusion I-III *A chance to deal nausea to your victim.* Axe
-Decapitation I-III *Victims have a chance of dropping their head on death.* Axe
-Curse I-V *Gives strength, slowness and resistance at low hp* Chestplate
-Aquatic I *Gives permanent water breathing* Helmet
-Etheral I-III *Gain haste upon killing mobs* Sword
-Experience I-V *Chance to get experience from mining* Pickaxe, Spade, Axe
-Explosive I-V *Explosive Arrows* Bow, Crossbow
-Famine I-IV *A chance to give your opponent the hunger effect* Sword, Axe
+Berserk I-V *A chance of strength and mining fatigue* Axe  
+Auto Smelt I-III *Ores are automatically smelted when mined* Pickaxe  
+Commander I-V *Nearby allies are given haste* Armor  
+Confusion I-III *A chance to deal nausea to your victim.* Axe  
+Decapitation I-III *Victims have a chance of dropping their head on death.* Axe  
+Curse I-V *Gives strength, slowness and resistance at low hp* Chestplate  
+Aquatic I *Gives permanent water breathing* Helmet  
+Etheral I-III *Gain haste upon killing mobs* Sword  
+Experience I-V *Chance to get experience from mining* Pickaxe, Spade, Axe  
+Explosive I-V *Explosive Arrows* Bow, Crossbow  
+Famine I-IV *A chance to give your opponent the hunger effect* Sword, Axe  
 Featherweight I-III *A chance to give burst of haste* Sword
 Glowing I *Gives permanent night vision* Helmet
 Headless I-III *Victims have a chance of dropping their head on death.* Sword
