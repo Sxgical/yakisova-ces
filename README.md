@@ -112,4 +112,35 @@ Tank I-IV *Chance to decreases damage from enemy axes by 2% per level* Armor
 Unfocus I-V *Chance to unfocus target player, reducing their out going bow damage by 50% for up to 10 seconds* Bow, Crossbow  
 Valor I-V *Chance to reduces incoming damage while wielding a sword by up to 22% at max level* Armor  
 # Ultimate Enchantment 
-
+Barbarian I-IV *Chance to inflicts more axe damage* Axe  
+Blacksmith I-V *Chance to heal your most damaged piece of armor by 1-2 durability whenever you hit a player, but when it procs your attack will only deal 50% of the normal damage* Axe  
+Clarity I-III *Cure blindness when attacked* Armor  
+Deathbringer I-III *Chance to deal double damage* Armor  
+Death God I-III *Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead Helmet  
+Armored I-IV *Decreases damage from enemy swords by 2% per level* Armor  
+Destruction I-V *Chance to damages and debuffs all nearby enemies when attacked* Helmet  
+Devour I-IV *Chance to multiplies damage dealt to players with active bleed stacks* Axe  
+Diminish I-VI *When this effect procs, the next attack dealt to you cannot deal more than (the total amount of damage / 2) you took from the previous attack Chestplate  
+Disarmor I-VIII *A slight chance of removing one piece of armor from your enemy when they are at low health* Sword  
+Enlighted I-III *Can heal hearts while taking damage* Armor  
+Exterminator I-III *When attacked, chance to temporarily disables enemy ability to use Undead Ruse, Guardians, and Spirits Leggings  
+Gears I-III *Added speed when equipped* Boots  
+Double Strike I-III *A chance to strike twice* Sword  
+Drunk I-IV *Slowness and slow swinging with a chance to get strength* Helmet  
+Hex I-IV *Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 3-7 damaged is reflected back to them Axe  
+Impale I-IV *Chance to deal HUGE amounts of damage to your opponent, causing Slowness V for some time* Bow, Crossbow  
+Lifesteal I-V *A chance to steal health when attacking* Sword  
+Overload I-III *Permanent increase in hearts* Armor  
+Kill Aura I-V *Chance to kill multiple monsters in a stack each death event* Sword  
+Judgement I-V *Chance of dealing poison damage to your target and adding regeneration to yourself Armor
+Inversion I-IV *Damage dealt to you has a chance to be blocked and heal you for 1-5 HP* Sword
+Insanity I-VIII *You swing your axe like a maniac. Chance to multiplies damage against players who are wielding a SWORD at the time they are hit* Axe  
+Protection I-V *Automatically heals and cures all nearby faction allies* Armor  
+Quiver I-VI *Chance to fling your attackerts into the air* Boots  
+Rage I-VI *For every combo hit you land, chance to do 0.5 heart damage per combo to your opponent. Upto 5 max combo hits* Axe, Sword  
+Sniper I-V *Headshots with projectile deal up to 3.5x damage* Bow, Crossbow  
+Stun I-III *Chance to slow opponent, make them feel weak, and remove slowness from you* Axe, Sword  
+Silence I-IV *Chance to stop activation of your enemy's custom armor enchants* Sword  
+Unholy I-V *Chance to give weakness and wither to your attacker* Armor  
+Twinge I-IV *Make your enemy bleed, if hit using melee attack* Trident  
+Torrent I-IV *Deal increased damage while in water* Boots  
