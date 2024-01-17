@@ -6,104 +6,104 @@
 - [Legendary Enchantments](#legendary-enchantments)
 
 ## Common Enchantment
-<b> Berserk I-V 
+<b> Berserk I-V </b><br>
 <i> A chance of strength and mining fatigue 
 Axe  
 
-<b> Auto Smelt I-III 
+<b> Auto Smelt I-III </b><br>
 <i> Ores are automatically smelted when mined 
 Pickaxe  
-<b> Commander I-V 
+<b> Commander I-V </b><br>
 <i> Nearby allies are given haste 
 Armor  
-<b> Confusion I-III 
+<b> Confusion I-III </b><br>
 <i> A chance to deal nausea to your victim. 
 Axe  
-<b> Decapitation I-III 
+<b> Decapitation I-III </b><br>
 <i> Victims have a chance of dropping their head on death. 
 Axe  
-<b> Curse I-V 
+<b> Curse I-V </b><br>
 <i> Gives strength, slowness and resistance at low hp 
 Chestplate  
-<b> Aquatic I 
+<b> Aquatic I </b><br>
 <i> Gives permanent water breathing 
 Helmet  
-<b> Etheral I-III 
+<b> Etheral I-III </b><br>
 <i> Gain haste upon killing mobs 
 Sword  
-<b> Experience I-V 
+<b> Experience I-V </b><br>
 <i> Chance to get experience from mining 
 Pickaxe, Spade, Axe  
-<b> Explosive I-V 
+<b> Explosive I-V </b><br>
 Explosive Arrows 
 Bow, Crossbow  
-<b> Famine I-IV 
+<b> Famine I-IV </b><br>
 <i> A chance to give your opponent the hunger effect 
 Sword, Axe  
-<b> Featherweight I-III 
+<b> Featherweight I-III </b><br>
 <i> A chance to give burst of haste 
 Sword  
-<b> Glowing I 
+<b> Glowing I </b><br>
 <i> Gives permanent night vision 
 Helmet  
-<b> Headless I-III 
+<b> Headless I-III </b><br>
 <i> Victims have a chance of dropping their head on death. 
 Sword  
-<b> Haste I-III 
+<b> Haste I-III </b><br>
 <i> Allows you to swing your tools faster 
 Pickaxe, Spade, Axe  
-<b> Endershift I-III 
+<b> Endershift I-III </b><br>
 <i> Gives speed/health boost at low hp 
 Helmet, Boots  
-<b> Lightning I-III 
+<b> Lightning I-III </b><br>
 <i> A chance to strike lightning at the opponent 
 Bow, Crossbow  
-<b> Oxygenate I 
+<b> Oxygenate I </b><br>
 <i> Refills oxygen levels when breaking blocks underwater 
 Pickaxe  
-<b> Obliterate I-V 
+<b> Obliterate I-V </b><br>
 <i> Extreme knockback. 
 Sword  
-<b> Molten I-IV 
+<b> Molten I-IV </b><br>
 <i> Chance of setting your attacket ablaze 
 Armor  
-<b> Plague Carrier I-VIII 
+<b> Plague Carrier I-VIII </b><br>
 <i> When near death summons creepers and debuffs to avenge you 
 Leggings  
-<b> Lifebloom I-V 
+<b> Lifebloom I-V </b><br>
 <i> Complete heals allies and truces on your death in 10 block radius 
 Leggings  
-<b> Insomnia I-VII 
+<b> Insomnia I-VII </b><br>
 <i> Gives slowness, slow swinging and confusion 
 Sword  
-<b> Self Destruct I-III 
+<b> Self Destruct I-III </b><br>
 <i> When close to death, tnt spawns around you to end you and remove your dropped items 
 Armor  
-<b> Shuffle I-III 
+<b> Shuffle I-III </b><br>
 <i> Shuffles opponent's hotbar 
 Armor  
-<b> Skill Swipe I-V 
+<b> Skill Swipe I-V </b><br>
 <i> A chance to steal some of your enemy's EXP everytime you damage them 
 Sword  
-<b> Strike I-III 
+<b> Strike I-III </b><br>
 <i> A chance to strike lightning at the opponent 
 Trident  
-<b> Sustain I-IV 
+<b> Sustain I-IV </b><br>
 <i> Chance to regain hunger when getting hit 
 Armor  
-<b> Telepathy I-IV 
+<b> Telepathy I-IV </b><br>
 <i> Automatically places blocks broken by tools in your inventory 
 Pickaxe, Spade, Axe  
-<b> Thundering Blow I-III 
+<b> Thundering Blow I-III </b><br>
 <i> Can cause smite effect on your enemy 
 Sword  
-<b> Ravenous I-IV 
+<b> Ravenous I-IV </b><br>
 <i> Chance to regain hunger whilst in combat 
 Axe  
-<b> Virus I-IV 
+<b> Virus I-IV </b><br>
 <i> Multiplies all Wither and Poison effects on the afflicted target 
 Bow, Crossbow  
-<b> Ward I-IV 
+<b> Ward I-IV </b><br>
 <i> A chance to absorb enemy damage and heal you 
 Armor  
 ## Elite Enchantment
