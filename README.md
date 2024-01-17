@@ -13,99 +13,133 @@
 <b> Auto Smelt I-III </b><br>
 <i> Ores are automatically smelted when mined </i><br>
 <b> Applies to: Pickaxe  
+
 <b> Commander I-V </b><br>
 <i> Nearby allies are given haste </i><br>
 <b> Applies to: Armor  
+
 <b> Confusion I-III </b><br>
 <i> A chance to deal nausea to your victim. </i><br>
 <b> Applies to: Axe  
+
 <b> Decapitation I-III </b><br>
 <i> Victims have a chance of dropping their head on death. </i><br>
 <b> Applies to: Axe  
+
 <b> Curse I-V </b><br>
 <i> Gives strength, slowness and resistance at low hp </i><br>
 <b> Applies to: Chestplate  
+
 <b> Aquatic I </b><br>
 <i> Gives permanent water breathing </i><br>
 <b> Applies to: Helmet  
+
 <b> Etheral I-III </b><br>
 <i> Gain haste upon killing mobs </i><br>
 <b> Applies to: Sword  
+
 <b> Experience I-V </b><br>
 <i> Chance to get experience from mining </i><br>
 <b> Applies to: Pickaxe, Spade, Axe  
+
 <b> Explosive I-V </b><br>
-Explosive Arrows 
+Explosive Arrows </i><br>
 <b> Applies to: Bow, Crossbow  
+
 <b> Famine I-IV </b><br>
 <i> A chance to give your opponent the hunger effect </i><br>
 <b> Applies to: Sword, Axe  
+
 <b> Featherweight I-III </b><br>
 <i> A chance to give burst of haste </i><br>
 <b> Applies to: Sword  
+
 <b> Glowing I </b><br>
 <i> Gives permanent night vision </i><br>
 <b> Applies to: Helmet  
+
 <b> Headless I-III </b><br>
 <i> Victims have a chance of dropping their head on death.</i><br> 
 <b> Applies to: Sword  
+
 <b> Haste I-III </b><br>
 <i> Allows you to swing your tools faster </i><br>
 <b> Applies to: Pickaxe, Spade, Axe  
+
 <b> Endershift I-III </b><br>
 <i> Gives speed/health boost at low hp </i><br>
 <b> Applies to: Helmet, Boots  
+
 <b> Lightning I-III </b><br>
 <i> A chance to strike lightning at the opponent </i><br>
 <b> Applies to: Bow, Crossbow  
+
 <b> Oxygenate I </b><br>
 <i> Refills oxygen levels when breaking blocks underwater </i><br>
 <b> Applies to: Pickaxe  
+
 <b> Obliterate I-V </b><br>
 <i> Extreme knockback. </i><br>
 <b> Applies to: Sword  
+
 <b> Molten I-IV </b><br>
 <i> Chance of setting your attacket ablaze </i><br>
 <b> Applies to: Armor  
+
 <b> Plague Carrier I-VIII </b><br>
 <i> When near death summons creepers and debuffs to avenge you </i><br>
 <b> Applies to: Leggings  
+
 <b> Lifebloom I-V </b><br>
 <i> Complete heals allies and truces on your death in 10 block radius </i><br>
 <b> Applies to: Leggings  
+
 <b> Insomnia I-VII </b><br>
 <i> Gives slowness, slow swinging and confusion </i><br>
 <b> Applies to: Sword  
+
 <b> Self Destruct I-III </b><br>
 <i> When close to death, tnt spawns around you to end you and remove your dropped items </i><br>
 <b> Applies to: Armor  
+
 <b> Shuffle I-III </b><br>
 <i> Shuffles opponent's hotbar </i><br>
 <b> Applies to: Armor  
+
 <b> Skill Swipe I-V </b><br>
 <i> A chance to steal some of your enemy's EXP everytime you damage them </i><br>
 <b> Applies to: Sword  
+
 <b> Strike I-III </b><br>
 <i> A chance to strike lightning at the opponent </i><br>
 <b> Applies to: Trident  
+
 <b> Sustain I-IV </b><br>
 <i> Chance to regain hunger when getting hit </i><br>
 <b> Applies to: Armor  
+
 <b> Telepathy I-IV </b><br>
 <i> Automatically places blocks broken by tools in your inventory </i><br>
 <b> Applies to: Pickaxe, Spade, Axe  
+
 <b> Thundering Blow I-III </b><br>
 <i> Can cause smite effect on your enemy </i><br>
 <b> Applies to: Sword  
+
 <b> Ravenous I-IV </b><br>
 <i> Chance to regain hunger whilst in combat </i><br>
 <b> Applies to: Axe  
+
 <b> Virus I-IV </b><br>
 <i> Multiplies all Wither and Poison effects on the afflicted target </i><br>
 <b> Applies to: Bow, Crossbow  
+
 <b> Ward I-IV </b><br>
 <i> A chance to absorb enemy damage and heal you </i><br>
 <b> Applies to: Armor  
+
+
+
 ## Elite Enchantment
 <b> Blind I-III A chance of causing blindness when attacking Sword  
 <b> Cactus I-II Injures your attackers but does not affect your durability Armor  
