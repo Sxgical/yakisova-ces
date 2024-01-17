@@ -8,172 +8,273 @@
 ## Common Enchantment
 <b> Berserk (V) </b><br>
 <i> A chance of strength and mining fatigue </i><br>
-<b> Applies to: </b> Axe  
+<b> Applies to: </b> </b> Axe  
 
 <b> Auto Smelt (III) </b><br>
 <i> Ores are automatically smelted when mined </i><br>
-<b> Applies to: </b> Pickaxe  
+<b> Applies to: </b> </b> Pickaxe  
 
 <b> Commander (V) </b><br>
 <i> Nearby allies are given haste </i><br>
-<b> Applies to: </b> Armor  
+<b> Applies to: </b> </b> Armor  
 
 <b> Confusion (III) </b><br>
 <i> A chance to deal nausea to your victim. </i><br>
-<b> Applies to: </b> Axe  
+<b> Applies to: </b> </b> Axe  
 
 <b> Decapitation (III) </b><br>
 <i> Victims have a chance of dropping their head on death. </i><br>
-<b> Applies to: </b> Axe  
+<b> Applies to: </b> </b> Axe  
 
 <b> Curse (V) </b><br>
 <i> Gives strength, slowness and resistance at low hp </i><br>
-<b> Applies to: </b> Chestplate  
+<b> Applies to: </b> </b> Chestplate  
 
 <b> Aquatic (I) </b><br>
 <i> Gives permanent water breathing </i><br>
-<b> Applies to: </b> Helmet  
+<b> Applies to: </b> </b> Helmet  
 
 <b> Etheral (III) </b><br>
 <i> Gain haste upon killing mobs </i><br>
-<b> Applies to: </b> Sword  
+<b> Applies to: </b> </b> Sword  
 
 <b> Experience (V) </b><br>
 <i> Chance to get experience from mining </i><br>
-<b> Applies to: </b> Pickaxe, Spade, Axe  
+<b> Applies to: </b> </b> Pickaxe, Spade, Axe  
 
 <b> Explosive (V) </b><br>
 Explosive Arrows </i><br>
-<b> Applies to: </b> Bow, Crossbow  
+<b> Applies to: </b> </b> Bow, Crossbow  
 
 <b> Famine (IV) </b><br>
 <i> A chance to give your opponent the hunger effect </i><br>
-<b> Applies to: </b> Sword, Axe  
+<b> Applies to: </b> </b> Sword, Axe  
 
 <b> Featherweight (III) </b><br>
 <i> A chance to give burst of haste </i><br>
-<b> Applies to: </b> Sword  
+<b> Applies to: </b> </b> Sword  
 
 <b> Glowing (I) </b><br>
 <i> Gives permanent night vision </i><br>
-<b> Applies to: </b> Helmet  
+<b> Applies to: </b> </b> Helmet  
 
 <b> Headless (III) </b><br>
 <i> Victims have a chance of dropping their head on death.</i><br> 
-<b> Applies to: </b> Sword  
+<b> Applies to: </b> </b> Sword  
 
 <b> Haste (III) </b><br>
 <i> Allows you to swing your tools faster </i><br>
-<b> Applies to: </b> Pickaxe, Spade, Axe  
+<b> Applies to: </b> </b> Pickaxe, Spade, Axe  
 
 <b> Endershift (III) </b><br>
 <i> Gives speed/health boost at low hp </i><br>
-<b> Applies to: </b> Helmet, Boots  
+<b> Applies to: </b> </b> Helmet, Boots  
 
 <b> Lightning (III) </b><br>
 <i> A chance to strike lightning at the opponent </i><br>
-<b> Applies to: </b> Bow, Crossbow  
+<b> Applies to: </b> </b> Bow, Crossbow  
 
 <b> Oxygenate (I) </b><br>
 <i> Refills oxygen levels when breaking blocks underwater </i><br>
-<b> Applies to: </b> Pickaxe  
+<b> Applies to: </b> </b> Pickaxe  
 
 <b> Obliterate (V) </b><br>
 <i> Extreme knockback. </i><br>
-<b> Applies to: </b> Sword  
+<b> Applies to: </b> </b> Sword  
 
 <b> Molten (IV) </b><br>
 <i> Chance of setting your attacket ablaze </i><br>
-<b> Applies to: </b> Armor  
+<b> Applies to: </b> </b> Armor  
 
 <b> Plague Carrier (VIII) </b><br>
 <i> When near death summons creepers and debuffs to avenge you </i><br>
-<b> Applies to: </b> Leggings  
+<b> Applies to: </b> </b> Leggings  
 
 <b> Lifebloom (V) </b><br>
 <i> Complete heals allies and truces on your death in 10 block radius </i><br>
-<b> Applies to: </b> Leggings  
+<b> Applies to: </b> </b> Leggings  
 
 <b> Insomnia (VII) </b><br>
 <i> Gives slowness, slow swinging and confusion </i><br>
-<b> Applies to: </b> Sword  
+<b> Applies to: </b> </b> Sword  
 
 <b> Self Destruct (III) </b><br>
 <i> When close to death, tnt spawns around you to end you and remove your dropped items </i><br>
-<b> Applies to: </b> Armor  
+<b> Applies to: </b> </b> Armor  
 
 <b> Shuffle (III) </b><br>
 <i> Shuffles opponent's hotbar </i><br>
-<b> Applies to: </b> Armor  
+<b> Applies to: </b> </b> Armor  
 
 <b> Skill Swipe (V) </b><br>
 <i> A chance to steal some of your enemy's EXP everytime you damage them </i><br>
-<b> Applies to: </b> Sword  
+<b> Applies to: </b> </b> Sword  
 
 <b> Strike (III) </b><br>
 <i> A chance to strike lightning at the opponent </i><br>
-<b> Applies to: </b> Trident  
+<b> Applies to: </b> </b> Trident  
 
 <b> Sustain (IV) </b><br>
 <i> Chance to regain hunger when getting hit </i><br>
-<b> Applies to: </b> Armor  
+<b> Applies to: </b> </b> Armor  
 
 <b> Telepathy (IV) </b><br>
 <i> Automatically places blocks broken by tools in your inventory </i><br>
-<b> Applies to: </b> Pickaxe, Spade, Axe  
+<b> Applies to: </b> </b> Pickaxe, Spade, Axe  
 
 <b> Thundering Blow (III) </b><br>
 <i> Can cause smite effect on your enemy </i><br>
-<b> Applies to: </b> Sword  
+<b> Applies to: </b> </b> Sword  
 
 <b> Ravenous (IV) </b><br>
 <i> Chance to regain hunger whilst in combat </i><br>
-<b> Applies to: </b> Axe  
+<b> Applies to: </b> </b> Axe  
 
 <b> Virus (IV) </b><br>
 <i> Multiplies all Wither and Poison effects on the afflicted target </i><br>
-<b> Applies to: </b> Bow, Crossbow  
+<b> Applies to: </b> </b> Bow, Crossbow  
 
 <b> Ward (IV) </b><br>
 <i> A chance to absorb enemy damage and heal you </i><br>
-<b> Applies to: </b> Armor  
+<b> Applies to: </b> </b> Armor  
 
 
 
 ## Elite Enchantment
-<b> Blind (III) A chance of causing blindness when attacking Sword  
-<b> Cactus (II) Injures your attackers but does not affect your durability Armor  
-<b> Demonforged (IV) Increases your durability loss on your enemy's armor Sword  
-<b> Anti Gravity (III) Super jump Boots  
-<b> Execute (VII) Damage buff when your target is low HP Sword  
-<b> Farcast (V) Chance to knockback melee attackers by a couple of blocks when they hit you. Increased chance of proccing when your health is low Bow, Crossbow  
-<b> Greatsword (V) Multiplies damage against players who are wielding a BOW at the time they are hit Sword  
-<b> Hardened (III) Chance to recover durability when damaged Armor  
-<b> Frozen (III) Can cause slowness to attacker when defending  
-<b> Ender Slayer (V) Increases damage dealt to Enderman and Ender dragons Sword, Axe  
-<b> Infernal (III) Explosive fire effect Bow, Crossbow  
-<b> Impact (IV) Chance to double dealt damage Trident  
-<b> Hijack (IV) Chance to convert summoned enemy Guardians into your own when they are shot with an arrow Bow, Crossbow  
-<b> Nether Slayer (V) Increases damage dealt to Blazes and Zombie Pigmen Sword, Axe  
-<b> Paralyze (IV) Gives lightning effect and a chance for slowness and slow swinging Sword  
-<b> Poison (III) A chance of giving poison effect Sword, Axe  
-<b> Pummel (III) Chance to slow nearby enemy players for a short period Axe  
-<b> Shackle (III) Your attack pulls mob toward you Sword  
-<b> Shockwave (V) Chance to push back attacker when your health is low Chestplate  
-<b> Smoke Bomb (VII)I When you are near death, you will spawn a smoke bomb to distract your enemies Helmet  
-<b> Stormcaller (IV) Strikes lightning on attacking players Armor  
-<b> Springs (III) Gives jump boost Boots  
-<b> Snare (IV) Chance to slow and fatigue enemy with projectiles Bow, Crossbow  
-<b> Rocket Escape (III) Blast off into the air at low hp Boots  
-<b> Reforged I-X Protects weapons and tools durability, items will be taking longer to break Axe, Sword, Pickaxe, Spade  
-<b> Reaper (IV) A chance to give your opponent the Wither and Blindness effects while dealing damage Axe  
-<b> Trap (III) Chance to give buffed slowness effect Sword  
-<b> Trickster (VII)I When hit you have a chance to teleport directly behind your opponent and take them by surprise Armor  
-<b> Undead Ruse I-X When hit you have a chance to spawn zombie hordes to distract and disorient your opponents Boots  
-<b> Vampire (III) A chance to heal you for up to 3 hp a few seconds after you strike Sword  
-<b> Venom (III) A chance of dealing poison Bow, Crossbow  
-<b> Voodoo (VI) Gives a chance to deal weakness Armor  
-<b> Wither (V) A chance to give the wither effect Armor  
+<b> Blind (III) </b><br>
+<i> A chance of causing blindness when attacking </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Cactus (II) </b><br>
+<i> Injures your attackers but does not affect your durability </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Demonforged (IV) </b><br>
+<i> Increases your durability loss on your enemy's armor </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Anti Gravity (III) </b><br>
+<i> Super jump </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Execute (VII) </b><br>
+<i> Damage buff when your target is low HP </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Farcast (V) </b><br>
+<i> Chance to knockback melee users by a couple of blocks when they hit you. Increased chance of proc when your health is low </i><br>
+<b> Applies to: </b> Bow, Crossbow  <br>
+
+<b> Greatsword (V) </b><br>
+<i> Multiplies damage against players who are wielding a BOW at the time they are hit </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Hardened (III) </b><br>
+<i> Chance to recover durability when damaged </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Frozen (III) </b><br>
+<i> Can cause slowness to attacker when defending </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Ender Slayer (V) </b><br>
+<i> Increases damage dealt to Enderman and Ender dragons </i><br>
+<b> Applies to: </b> Sword, Axe  <br>
+
+<b> Infernal (III) </b><br>
+<i> Explosive fire effect </i><br>
+<b> Applies to: </b> Bow, Crossbow  <br>
+
+<b> Impact (IV) </b><br>
+<i> Chance to double dealt damage </i><br>
+<b> Applies to: </b> Trident  <br>
+
+<b> Hijack (IV) </b><br>
+<i> Chance to convert summoned enemy Guardians into your own when they are shot with an arrow </i><br>
+<b> Applies to: </b> Bow, Crossbow  <br>
+
+<b> Nether Slayer (V) </b><br>
+<i> Increases damage dealt to Blazes and Zombie Pigmen </i><br>
+<b> Applies to: </b> Sword, Axe  <br>
+
+<b> Paralyze (IV) </b><br>
+<i> Gives lightning effect and a chance for slowness and slow swinging </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Poison (III) </b><br>
+<i> A chance of giving poison effect </i><br>
+<b> Applies to: </b> Sword, Axe  <br>
+
+<b> Pummel (III) </b><br>
+<i> Chance to slow nearby enemy players for a short period </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Shackle (III) </b><br>
+<i> Your attack pulls mob toward you </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Shockwave (V) </b><br>
+<i> Chance to push back attacker when your health is low </i><br>
+<b> Applies to: </b> Chestplate  <br>
+
+<b> Smoke Bomb (VIII) </b><br>
+<i> When you are near death, you will spawn a smoke bomb to distract your enemies </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Stormcaller (IV) </b><br>
+<i> Strikes lightning on attacking players </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Springs (III) </b><br>
+<i> Gives jump boost </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Snare (IV) </b><br>
+<i> Chance to slow and fatigue enemy with projectiles </i><br>
+<b> Applies to: </b> Bow, Crossbow  <br>
+
+<b> Rocket Escape (III) </b><br>
+<i> Blast off into the air at low hp</i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Reforged (X) </b><br>
+<i> Protects weapons and tools durability, items will be taking longer to break </i><br>
+<b> Applies to: </b> Axe, Sword, Pickaxe, Spade  <br>
+
+<b> Reaper (IV) </b><br>
+<i> A chance to give your opponent the Wither and Blindness effects while dealing damage </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Trap (III) </b><br>
+<i> Chance to give buffed slowness effect </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Trickster (VIII) </b><br>
+<i> When hit you have a chance to teleport directly behind your opponent and take them by surprise </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Undead Ruse (X) </b><br>
+<i> When hit you have a chance to spawn zombie hordes to distract and disorient your opponents </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Vampire (III) </b><br>
+<i> A chance to heal you for up to 3 hp a few seconds after you strike </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Venom (III) </b><br>
+<i> A chance of dealing poison </i><br>
+<b> Applies to: </b> Bow, Crossbow  <br>
+
+<b> Voodoo (VI) </b><br>
+<i> Gives a chance to deal weakness </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Wither (V) </b><br>
+<i> A chance to give the wither effect </i><br>
+<b> Applies to: </b> Armor  <br>
+
+
+
 ## Epic Enchantment
 <b> Arsonist (III) Chance to deal more damage whilst on fire Sword  
 <b> Assassin (V) The closer you are to your enemy, the more damage you deal (up to 1.25x). However, if you are more than 2 blocks away, you will deal LESS damage than normal Sword  
@@ -193,7 +294,7 @@ Explosive Arrows </i><br>
 <b> Disintegrate (IV) Chance to deal extra durability damage to all enemy armor with every attack Sword  
 <b> Distance (IV) Chance to distance yourself from your enemies and gain regeneration Sword, Axe  
 <b> Enrage (III) Deal more damage on low HP Sword  
-<b> Guardians I-X A chance to spawn iron golems to assist you and watch over you Armor  
+<b> Guardians (X) A chance to spawn iron golems to assist you and watch over you Armor  
 <b> Heavy (V) Decreases damage from enemy bows by 2% per level Armor  
 <b> Hellfire (V) All arrows shot by you turn into explosive fireballs when in contact with the enemy Bow, Crossbow  
 <b> Ender Walker (V) Chance to cure Wither and Poison when attacked and heal at high levels Boots  
@@ -212,7 +313,7 @@ Explosive Arrows </i><br>
 <b> Jelly Legs (III) Chance to negate fall damage Boots  
 <b> Planter (III) Plant seeds in a 3x3 area by shift+right-clicking Hoe  
 <b> Ragdoll (IV) Whenever you take damage you are pushed far back Armor  
-<b> Spirits I-X Chance to spawn blazes that heal yourself and your allies in combat Armor  
+<b> Spirits (X) Chance to spawn blazes that heal yourself and your allies in combat Armor  
 <b> Timber (III) Chance to break a tree in one hit Axe  
 <b> Restore (IV) Upon breaking, item has a chance to lose this enchantment and repair half of its durability Pickaxe, Spade, Axe  
 <b> Reinforced (IV) Take less damage when being hit from behind Armor  
@@ -265,9 +366,9 @@ Explosive Arrows </i><br>
 # Soon to add more Legendary Enchantment
 
 <b> Berserk (V) </b><br>
-<b> Applies to: </b> Axe <br>
+<b> Applies to: </b> </b> Axe <br>
 <i> A chance of strength and mining fatigue. </i><br>
 
 <b> Berserk (V) </b><br>
-<b> Applies to: </b> Axe <br>
+<b> Applies to: </b> </b> Axe <br>
 <i> A chance of strength and mining fatigue. </i><br>
