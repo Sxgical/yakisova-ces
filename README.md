@@ -279,132 +279,175 @@ Explosive Arrows </i><br>
 <b> Arsonist (III) </b><br>
 <i> Chance to deal more damage whilst on fire </i><br>
 <b> Applies to: </b> Sword  <br>
+
 <b> Assassin (V) </b><br>
 <i> The closer you are to the enemy, the more damage you deal (up to 1.25x). However, if you are more than 2 blocks away, you will deal LESS dmg than normal </i><br>
 <b> Applies to: </b> Sword  <br>
+
 <b> Bleed (VI) </b><br>
 <i> Applies bleed stacks to enemies that decrease their movement speed </i><br>
 <b> Applies to: </b> Axe  <br>
+
 <b> Blessed (IV) </b><br>
 <i> A chance of removing debuffs </i><br>
 <b> Applies to: </b> Axe  <br>
+
 <b> Block (III) </b><br>
 <i> A chance to negate an attack and deal up to 4 damage back </i><br>
 <b> Applies to: </b> Sword  <br>
+
 <b> Cleave (VII) </b><br>
 <i> Damages players within a radius that increases with the level of enchant </i><br>
 <b> Applies to: </b> Axe  <br>
+
 <b> Corrupt (IV) </b><br>
 <i> Deals damage overtime </i><br>
 <b> Applies to: </b> Axe  <br>
+
 <b> Creeper Armor (III) </b><br>
 <i> Chance to be immune to explosive damage, at higher levels you have a chance to heal </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Demonic (III) </b><br>
 <i> A chance to remove fire resistance from your enemy </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Angelic (V) </b><br>
 <i> Heals health when damaged </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Annihilate (VI) </b><br>
 <i> Demolish your opponent's armour quicker </i><br>
 <b> Applies to: </b> Axe  <br>
+
 <b> Arrow Break (VI) </b><br>
 <i> Chance for arrows to bounce off and do no damage to you when you are wielding an axe with this enchant on it </i><br>
 <b> Applies to: </b> Axe  <br>
+
 <b> Arrow Deflect (IV) </b><br>
 <i> Chance to prevent enemy arrow from dealing damage </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Arrow Lifesteal (V) </b><br>
 <i> Chance to steal health from opponent </i><br>
 <b> Applies to: </b> Bow, Crossbow  <br>
+
 <b> Dissapear (IV) </b><br>
 <i> Chance to become invisible when low on health </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Disintegrate (IV) </b><br>
 <i> Chance to deal extra durability damage to all enemy armor with every attack </i><br>
 <b> Applies to: </b> Sword  <br>
+
 <b> Distance (IV) </b><br>
 <i> Chance to distance yourself from your enemies and gain regeneration </i><br>
 <b> Applies to: </b> Sword, Axe  <br>
+
 <b> Enrage (III) </b><br>
 <i> Deal more damage on low HP </i><br>
 <b> Applies to: </b> Sword  <br>
+
 <b> Guardians (X) </b><br>
 <i> A chance to spawn iron golems to assist you and watch over you</i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Heavy (V) </b><br>
 <i> Decreases damage from enemy bows by 2% per level </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Hellfire (V) </b><br>
 <i> All arrows shot by you turn into explosive fireballs when in contact with the enemy </i><br>
 <b> Applies to: </b> Bow, Crossbow  <br>
+
 <b> Ender Walker (V) </b><br>
 <i> Chance to cure Wither and Poison when attacked and heal at high levels </i><br>
 <b> Applies to: </b> Boots  <br>
+
 <b> Eagle Eye (V) </b><br>
 <i> Chance to deal 1-4 durability damage to ALL armor pieces of enemy player </i><br>
 <b> Applies to: </b> Bow, Crossbow  <br>
+
 <b> Dominate (IV) </b><br>
 <i> Chance to weaken enemy players when attacked, causing them to deal less damage </i><br>
 <b> Applies to: </b> Sword  <br>
+
 <b> Dodge (V) </b><br>
 <i> Chance to dodge physical enemy attacks, increased chance if sneaking </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Ice Aspect (III) </b><br>
 <i> A chance of causing the slowness effect on your enemy </i><br>
 <b> Applies to: </b> Sword  <br>
+
 <b> Implants (III) </b><br>
 <i> Chance to passively heals +1 health and restore +1 hunger every few seconds </i><br>
 <b> Applies to: </b> Helmet  <br>
+
 <b> Longbow (IV) </b><br>
 <i> Greatly increases damage dealt to enemy players that have a bow in their hands </i><br>
 <b> Applies to: </b> Bow, Crossbow  <br>
+
 <b> Marksman (IV) </b><br>
 <i> Increases damage dealt with bows </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Metaphysical (IV) </b><br>
 <i> A chance to be cured of Slowness when attacked. At max level, you will only be affected approx. 10% of the time </i><br>
 <b> Applies to: </b> Boots  <br>
+
 <b> Pacify (IV) </b><br>
 <i> A chance to paficy your target, dealing 1-4 damage and stopping their next attack on you </i><br>
 <b> Applies to: </b> Bow, Crossbow  <br>
+
 <b> Obsidianshield (I) </b><br>
 <i> Gives permanent fire resistance </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Pickpocket (III) </b><br>
 <i> Chance to steal in-game money whilst fighting </i><br>
 <b> Applies to: </b> Sword, Axe  <br>
+
 <b> Piercing (V) </b><br>
 <i> Inflicts more damage </i><br>
 <b> Applies to: </b> Bow, Crossbow  <br>
+
 <b> Jelly Legs (III) </b><br>
 <i> Chance to negate fall damage </i><br>
 <b> Applies to: </b> Boots  <br>
+
 <b> Planter (III) </b><br>
 <i> Plant seeds in a 3x3 area by shift+right-clicking </i><br>
 <b> Applies to: </b> Hoe  <br>
+
 <b> Ragdoll (IV) </b><br>
 <i> Whenever you take damage you are pushed far back </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Spirits (X) </b><br>
 <i> Chance to spawn blazes that heal yourself and your allies in combat </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Timber (III) </b><br>
 <i> Chance to break a tree in one hit </i><br>
 <b> Applies to: </b> Axe  <br>
+
 <b> Restore (IV) </b><br>
 <i> Upon breaking, item has a chance to lose this enchantment and repair half of its durability </i><br>
-Pickaxe, Spade, Axe  <br>
+<b> Applies to: </b> Pickaxe, Spade, Axe  <br>
+
 <b> Reinforced (IV) </b><br>
 <i> Take less damage when being hit from behind </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Tank (IV) </b><br>
 <i> Chance to decreases damage from enemy axes by 2% per level </i><br>
 <b> Applies to: </b> Armor  <br>
+
 <b> Unfocus (V) </b><br>
 <i> Chance to unfocus target player, reducing their out going bow damage by 50% for up to 10 seconds </i><br>
 <b> Applies to: </b> Bow, Crossbow  <br>
+
 <b> Valor (V) </b><br>
 <i> Chance to reduces incoming damage while wielding a sword by up to 22% at max level </i><br>
 <b> Applies to: </b> Armor  <br>
