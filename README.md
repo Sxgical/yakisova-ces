@@ -720,5 +720,9 @@ Explosive Arrows </i><br>
 <i> Ensures that the next strike against you only deals 50% of the damage inflicted and any extra above that will be returned to the attacker. (Requires Diminish VI) </i><br>
 <b> Applies to: </b> Chestplate <br>
 
+<b> Titan Trap (III) </b><br>
+<i> Heroic Enchantment. A chance to give a longer lasting buffed slowness effect. (Requires Trap III) </i><br>
+b. Applies to: </b> Sword <br>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 Made by streakyy.
