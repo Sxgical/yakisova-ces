@@ -530,7 +530,7 @@ Explosive Arrows </i><br>
 <i> Permanent increase in hearts </i><br>
 <b> Applies to: </b> Armor  <br>
 
-<b> Kill Aura (V) </b><br>
+<b> Kill Aura (VI) </b><br>
 <i> Chance to kill multiple monsters in a stack each death event </i><br>
 <b> Applies to: </b> Sword  <br>
 
